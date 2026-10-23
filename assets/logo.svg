@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 230" role="img" aria-label="Consultorios Oftalmológicos Castelar">
+  <!-- Recreación vectorial del logo oficial de Consultorios Oftalmológicos Castelar -->
+  <rect width="240" height="230" fill="#7A2D1B"/>
+  <g fill="#FFFFFF" font-family="Albert Sans, Arial, Helvetica, sans-serif" font-weight="600" text-anchor="middle">
+    <text x="120" y="34" font-size="23" textLength="208" lengthAdjust="spacingAndGlyphs">CONSULTORIOS</text>
+    <text x="120" y="60" font-size="23" textLength="216" lengthAdjust="spacingAndGlyphs">OFTALMOLOGICOS</text>
+  </g>
+  <rect x="12" y="70" width="216" height="110" fill="#FFFFFF"/>
+  <g transform="translate(12 70) scale(1.8 1.964)" fill="#7A2D1B">
+    <path d="M94 15C76 2 24-1 7 18 0 32 22 48 46 52 29 44 24 30 38 21 56 12 78 10 94 15Z"/>
+    <path d="M94 15C76 2 24-1 7 18 0 32 22 48 46 52 29 44 24 30 38 21 56 12 78 10 94 15Z" transform="rotate(180 60 28)"/>
+    <circle cx="60" cy="28" r="9"/>
+  </g>
+  <text x="120" y="214" fill="#FFFFFF" font-family="Albert Sans, Arial, Helvetica, sans-serif" font-weight="500" font-size="22" letter-spacing="11" text-anchor="middle">CASTELAR</text>
+</svg>
